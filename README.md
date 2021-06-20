@@ -1,1 +1,1 @@
-This is just the documentation wiki for Channel Points Handler
+This is just the documentation wiki for Streamer.bot
